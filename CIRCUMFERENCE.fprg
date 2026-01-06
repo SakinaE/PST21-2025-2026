@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="CIRCUMFERENCE"/>
+        <attribute name="authors" value="sakin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-01-06 11:03:12 AM"/>
+        <attribute name="created" value="c2FraW47TEFQVE9QLUgzRDVMVEZMOzIwMjYtMDEtMDY7MTA6Mzk6NTAgQU07Mjg1Nw=="/>
+        <attribute name="edited" value="c2FraW47TEFQVE9QLUgzRDVMVEZMOzIwMjYtMDEtMDY7MTE6MDM6MTIgQU07MTsyOTU1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="radius, C" type="Integer" array="False" size=""/>
+            <assign variable="radius" expression="4"/>
+            <assign variable="C" expression="2*3.14*4"/>
+            <output expression="C" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
